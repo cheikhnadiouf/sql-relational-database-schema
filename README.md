@@ -2,7 +2,9 @@ SQL RELATIONAL DATABASE SCHEMA
 ========================
 A full working sql database demo , exhaustive examples of common web data resources that we use to manage with MySQL or SQLite.
 Data tables and their relational models including users, sections, items/products, addresses, events, assets files, orders, payments, etc.
+- See database schema diagram file ( in jpg or png)
 
+### RESSOURCES / TABLES LIST : 
 
 - SECTION/CATEGORY table ( ready for hierarchic relationship : parent-children)
 - USER table (ready for authentication and controle access by roles with optional anonymous role )
