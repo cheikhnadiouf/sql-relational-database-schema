@@ -1,3 +1,5 @@
+Alert: Sadly, I don't have time to maintain this.
+
 SQL RELATIONAL DATABASE SCHEMA
 ========================
 A full working sql database demo , exhaustive examples of common web data resources that we use to manage with MySQL or SQLite.
